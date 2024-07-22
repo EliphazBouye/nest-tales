@@ -40,3 +40,5 @@ Run the dev server:
 $ npm run start:dev
 ```
 
+The server is listen on `http://localhost:3000`
+![Swagger UI listen server image](./docs/images/_swaggerui.png)
