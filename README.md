@@ -9,7 +9,7 @@ For this project you need :
 ## 🛠️ Installation :
 For install the project, clone the repository and install dependancies:
 
-```cmd
+```bash
 # Clone the repository
 $ git clone https://github.com/eliphazb/nestjs-prisma-blog-api
 
@@ -21,13 +21,13 @@ $ npm install
 ```
 
 Run docker compose to have postgresql available for our dev environement:
-```cmd
+```bash
 $ docker compose up -d
 ```
 
 Prisma & Run Migration:
 
-```cmd
+```bash
 # Get prisma
 $ npx prisma
 
@@ -36,7 +36,7 @@ $ npx prisma migrate dev
 ```
 
 Run the dev server:
-```cmd
+```bash
 $ npm run start:dev
 ```
 
