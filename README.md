@@ -1,6 +1,6 @@
-# Nest Tales
+# NestTales
 
-NestJS Prisma Blog API made with ❤️
+NestJS Prisma Blog API made with ❤️  
 A Blog API made with Nestjs and Prisma with PostgreSql as database.
 
 ## 🔭 Requirement
